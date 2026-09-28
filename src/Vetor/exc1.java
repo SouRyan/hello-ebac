@@ -1,4 +1,4 @@
-package sort;
+package Vetor;
 
 import java.util.Scanner;
 
