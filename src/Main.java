@@ -13,12 +13,12 @@ void main() {
 
     IO.println(String.format("insira sua altura em metros, utilize virgula"));
     double altura = scanner.nextDouble();
+    scanner.nextLine();
 
-    IO.println(String.format("insira sua estado civil"));
-    String Civil = scanner.nextLine();
+    IO.println(String.format("Agora, insira seu estado civil"));
+    String civil = scanner.nextLine();
 
-    IO.println("Seja bem vindo " + nome + " ! seu CPF é: " + cpf + " você tem " + idade + " com essa altura: " + altura+ "metros, parabens!");
-
+    IO.println("Seja bem vindo " + nome + " ! seu CPF é: " + cpf + " você tem " + idade + "anos de idade, e possui altura de: " + altura+ "metros, e seu estado civil é " + civil + " parabens!");
 
 
 }
