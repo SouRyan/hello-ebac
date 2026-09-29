@@ -23,6 +23,7 @@ public class Main {
         System.out.println("Qual o nome do aluno?");
         String nomeAluno = input.next();
         aluno[i] = new Alunos(nomeAluno, null);
+        continuar = true;
         while(continuar){
         for (int j = 0; j < qtdeProvas; j++) {
             System.out.println("Qual foi resultado da prova º"+(j+1)+"?");
