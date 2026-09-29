@@ -1,4 +1,4 @@
-package Matriz;
+package Logica.Matriz;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Repetição;
+package Logica.Repetição;
 
 import java.util.Scanner;
 

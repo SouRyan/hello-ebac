@@ -1,4 +1,4 @@
-package LeituraDeDados;
+package Logica.LeituraDeDados;
 
 import java.util.Scanner;
 public class LeituraDeDados {

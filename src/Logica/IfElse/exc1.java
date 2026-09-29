@@ -1,4 +1,4 @@
-package IfElse;
+package Logica.IfElse;
 
 import java.util.Scanner;
 

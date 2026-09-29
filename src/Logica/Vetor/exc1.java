@@ -1,4 +1,4 @@
-package Vetor;
+package Logica.Vetor;
 
 import java.util.Scanner;
 
